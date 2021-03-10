@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMC.Workflows", "TMC.Workflows.csproj", "{B07B787B-42EC-4E0E-B1B8-580DF168B41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07B787B-42EC-4E0E-B1B8-580DF168B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07B787B-42EC-4E0E-B1B8-580DF168B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07B787B-42EC-4E0E-B1B8-580DF168B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07B787B-42EC-4E0E-B1B8-580DF168B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A8096D-8603-4219-8204-AA6948CB5061}
+	EndGlobalSection
+EndGlobal
